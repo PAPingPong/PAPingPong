@@ -1,0 +1,55 @@
+#FD_partie1 .lieu
+{
+  display: inline;
+}
+#FD_partie1 .date
+{
+  display: inline;
+  padding-left: 5%;   
+}
+#FD_partie1 input
+{
+  display: inline;  
+}
+#FD_partie1 .heure
+{
+  display: inline;
+  padding-left: 10%;
+}
+#FD_partie1 .division
+{
+  display: inline;
+  padding-left: 30%;
+}
+#FD_partie1 .poule
+{
+  display: inline-block;
+  padding-left: 18%;
+}
+#FD_partie2 table
+{
+  display: inline;
+  border-collapse: collapse;
+}
+#FD_partie2 .EQUIPE_1
+{
+  display: inline-block;
+  padding-bottom: 5%;
+}
+
+#FD_partie2 .Cap_1
+{
+  display: inline-block;
+  margin-left:  2%;
+}
+#FD_partie2 .EQUIPE_2
+{
+  display: inline-block;
+  padding-bottom: 5%;
+}
+
+#FD_partie2 .Cap_2
+{
+  display: inline-block;
+  margin-left: 2%;
+}
